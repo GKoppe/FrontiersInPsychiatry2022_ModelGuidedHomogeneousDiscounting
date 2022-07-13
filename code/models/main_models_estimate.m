@@ -2,8 +2,7 @@
 % note that it calls the original data files which are not uploaded
 % here to ensure privacy
 % however, the data matrices used for inference are located in the
-% inference files themselves (one per subject, per run, per condition) 
-% in the MLE subfolders within the variable x.data
+% data/datamatrices folder (one per subject, per run, per condition) 
 % with these data matrices, the models can be reinferred
 % for questions please contact georgia.koppe@zi-mannheim.de
 
