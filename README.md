@@ -1,0 +1,2 @@
+# FrontiersInPsychiatry2022_ModelGuidedHomogeneousDiscounting
+Code and data of article
