@@ -1,0 +1,35 @@
+a/ b /.. stands for variations in models
+
+m01a: (hyperbolic model)
+- 2 pars: beta und kappa
+- hyperbolic discounting function
+- V2=1/(1+kD)
+
+m01b: (exponenial model)
+- 2 pars: beta und kappa
+- exponential discounting function
+- V2=k^D
+
+m01c: (CS model)
+- 3 pars: beta, kappa, delta
+- V2=exp(-(kappa*D)^delta)
+
+m01d: (hyperbolic-with exponential delay / modified hyperboloid model)
+- 3 pars: beta, kappa, delta
+- an extra parameter D^delta
+- V2=1/(1+kD^s)
+
+m01e: (quasi hyperbolic model)
+- 3 pars: beta, kappa, delta
+- exponential function weighted by param
+- an extra parameter weighing exponential fun
+
+m01f: (hyperboloid model)
+- 3 pars: beta, kappa, s
+- hyperbolic function exponentiated by param
+- an extra parameter making nonlinear transfo
+- V2=1/(1+kd)^s
+
+m01g: (double exponential model)
+- 4 pars: beta, kappa1, kappa2, w
+- - V2=w kappa_1^d + (1-w) kappa_2^D
