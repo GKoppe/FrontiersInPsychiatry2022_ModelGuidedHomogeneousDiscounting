@@ -15,7 +15,8 @@ Frontiers in Psychiatry, 13.
 Analysis code is contained in the folder named 'code', programs are labeled in agreement with 
 figure numbers. Code should be directly executable if starting from the 'code' path.
 Statistics of the data (e.g., means/medians) as well as inferred model parameters are found in the 
-'data' folder. Individual data matrices are found in the 'code/models/[modelname]/MLE/' folders.
+'data' folder. Individual data matrices (needed for model inference) are found in the 'data/datamatrices' folder.
+
 For questions and comments please contact
 
 georgia.koppe@zi-mannheim.de
